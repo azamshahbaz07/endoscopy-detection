@@ -1,2 +1,2 @@
 # endoscopy-detection
-Implementations of various segmentation & object detection algorithms for endoscopy images.
+Implementation and comparasion of various segmentation models for endoscopy images.
